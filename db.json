@@ -1,0 +1,129 @@
+{
+  "educations": [
+    {
+      "courseName": "Frontend development",
+      "courseNumber": "1234",
+      "courseLength": "2 år",
+      "starting": "14 augisti 2023",
+      "description": "lorem ipsum dolor amet"
+    },
+    {
+      "courseName": "Fullstack development",
+      "courseNumber": "2340",
+      "courseLength": "2 år",
+      "starting": "24 augisti 2023",
+      "description": "lorem ipsum dolor amet"
+    },
+    {
+      "courseName": "Backend development",
+      "courseNumber": "4215",
+      "courseLength": "2 år",
+      "starting": "4 augisti 2023",
+      "description": "lorem ipsum dolor amet"
+    },
+    {
+      "courseName": "IOS developer",
+      "courseNumber": "6423",
+      "courseLength": "2 år",
+      "starting": "7 augisti 2023",
+      "description": "lorem ipsum dolor amet"
+    }
+  ],
+  "teachers": [
+    {
+      "firstname": "Albin",
+      "surname": "Lindell",
+      "ssn": "980407-XXXX",
+      "email": "albinglindell98@gmail.com",
+      "phone": "070-006 25 08",
+      "competencies": [
+        "test1",
+        "test2",
+        "test3"
+      ],
+      "id": "lq341t1587c-ahea-3151-961c-c8867hd12356"
+    },
+    {
+      "firstname": "Emelie",
+      "surname": "Kim",
+      "ssn": "990426-XXXX",
+      "email": "emelie_kim@hotmail.com",
+      "phone": "076-174 68 74",
+      "competencies": [
+        "test1",
+        "test2",
+        "test3"
+      ],
+      "id": "h32459587c-adaa-451d4-912h-c88hrww3512436"
+    },
+    {
+      "firstname": "Hasse",
+      "surname": "Aaro",
+      "ssn": "12345678-XXXX",
+      "email": "Hasseaaro65@gmail.com",
+      "phone": "070-501 12 32",
+      "competencies": [
+        "test1",
+        "test2",
+        "test3"
+      ],
+      "id": "7645387c-adaa-46d4-9421c-c88674c51231436"
+    },
+    {
+      "firstname": "Charlie",
+      "surname": "Brown",
+      "ssn": "12345678-XXXX",
+      "email": "albinglindell98@gmail.com",
+      "phone": "070-006 25 08",
+      "competencies": [
+        "test1",
+        "test2",
+        "test3"
+      ],
+      "id": "b859587c-adaa-46d4-965c-c88674cu532432"
+    },
+    {
+      "firstname": "sdasd",
+      "surname": "dasdasd",
+      "ssn": "adsda",
+      "email": "adsd@adfada",
+      "phone": "asdsadasd",
+      "competencies": [
+        "asdasd",
+        "dsdasd",
+        "dada"
+      ],
+      "id": "b859587c-adaa-46d4-965c-c88674c54436"
+    },
+    {
+      "surname": "asd",
+      "lastname": "fafaf",
+      "ssn": "agga23123",
+      "email": "asda@gmail.see",
+      "phone": "12313123",
+      "competencies": [
+        ",,",
+        "dadad",
+        "affasad",
+        "fagas",
+        "dsds",
+        "dadsd",
+        "dasasd"
+      ],
+      "id": "82feba0e-8772-4d27-a687-76e881a7c9ff"
+    },
+    {
+      "surname": "asdfafafafafa",
+      "lastname": "asdas",
+      "ssn": "dasdas",
+      "email": "asd@gmail.com",
+      "phone": "sadfasd",
+      "competencies": [
+        "asdsads",
+        "sdasda",
+        "sadasd"
+      ],
+      "id": "2325eb86-4f3d-4d6f-aa8a-7f81efd06200"
+    }
+  ]
+}
